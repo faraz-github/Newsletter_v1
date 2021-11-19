@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+
+/* Home Specific */
+
+.title{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+    color: #241c15;
+}
+
+label{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+    color: #241c15;
+}
+
+.power{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+    color: #241c15;
+}
+
+input{
+    font-family: 'Zilla Slab', serif;
+    color: #241c15;
+}
+
+button{
+    font-family: 'Zilla Slab', serif;
+    color: #241c15;
+}
+
+/* Success & Failure Specific */
+
+.success-title{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+    color: #241c15;
+}
+
+.success-message{
+    font-family: 'Josefin Slab', serif;
+    color: #241c15;
+}
+
+.failure-title{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+    color: #241c15;
+}
+
+.failure-message{
+    font-family: 'Josefin Slab', serif;
+    color: #241c15;
+}
+
+.btn{
+    font-family: 'Zilla Slab', serif;
+    color: #241c15;
+}
+
+/* Project Wide */
+
+footer{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+    color: #241c15;
+}
+
+
